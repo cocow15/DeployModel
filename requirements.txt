@@ -1,5 +1,4 @@
 ﻿absl-py==1.0.0
-
 nose
 notebook-as-pdf
 numba
@@ -40,7 +39,6 @@ pytest
 python-dateutil
 python-slugify
 pytz
-pywin32
 pywin32-ctypes
 pywinpty
 PyYAML
