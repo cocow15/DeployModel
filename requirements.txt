@@ -1,4 +1,3 @@
-import csv
 counter
 sklearn.feature_extraction.text
 pickle
