@@ -1,6 +1,5 @@
 counter
 sklearn
-pickle
 flask
 tensorflow-cpu
 gunicorn
