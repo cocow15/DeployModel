@@ -3,3 +3,13 @@ tensorflow-cpu
 gunicorn
 pillow
 numpy
+joblib
+pandas
+matplotlib.pyplot
+matplotlib
+re
+wordcloud
+collections
+csv
+sklearn.feature_extraction.text
+pickle
