@@ -1,8 +1,4 @@
 ﻿absl-py
-unixodbc
-unixodbc-dev
-python-pyodbc
-libsqliteodbc
 nose
 notebook-as-pdf
 numba
