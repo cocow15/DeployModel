@@ -4,7 +4,7 @@ from matplotlib import rcParams
 import re
 from wordcloud import WordCloud
 from collections import Counter
-import csv
+#import csv
 from matplotlib import rcParams
 from sklearn.feature_extraction.text import TfidfTransformer
 import joblib
