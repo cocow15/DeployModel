@@ -5,7 +5,6 @@ pillow
 numpy
 joblib
 pandas
-matplotlib.pyplot
 matplotlib
 re
 wordcloud
