@@ -1,4 +1,8 @@
 ﻿absl-py
+unixodbc
+unixodbc-dev
+python-pyodbc
+libsqliteodbc
 nose
 notebook-as-pdf
 numba
@@ -28,7 +32,6 @@ pycurl
 pyee
 pyflakes
 pymodbus
-pyodbc
 pyparsing
 PyPDF2
 pyppeteer
