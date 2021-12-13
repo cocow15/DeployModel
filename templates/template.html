@@ -1,0 +1,29 @@
+<html>
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Hoax Detection</title>
+
+        <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">
+
+    
+    </head>
+    <body bgcolor=#5b8fe3>
+
+        <center>
+
+            <h1 style="margin-top: 100px"> FAKE NEWS PREDICTION </h1><br>
+        
+            <form method="POST", action="{{url_for('home')}}">
+            <b> Enter News Title :  <input type="text", name='news', placeholder="news"> <br><br>
+                <br></b>
+                <input type="submit" , value='Predict' >
+            </form>
+        
+        </center>
+
+    </body>
+</html>
