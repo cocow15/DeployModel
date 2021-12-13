@@ -132,7 +132,7 @@ feature-engine
 filelock
 Flask
 flatbuffers
-future=
+future
 gast
 glob2
 google-auth
