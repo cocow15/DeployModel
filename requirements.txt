@@ -6,7 +6,6 @@ numpy
 joblib
 pandas
 matplotlib
-re
 wordcloud
 collections
 csv
