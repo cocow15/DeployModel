@@ -1,5 +1,5 @@
 counter
-sklearn.feature_extraction.text
+sklearn
 pickle
 flask
 tensorflow-cpu
